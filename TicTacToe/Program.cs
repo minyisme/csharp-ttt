@@ -8,7 +8,8 @@ namespace TicTacToe
 {
     class Program
     {
-        //public enum players { x=1, o=2 };
+        // add comment test build release process
+        // public enum players { x=1, o=2 };
 
         static void Main(string[] args)
         {
